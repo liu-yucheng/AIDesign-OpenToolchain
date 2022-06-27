@@ -21,6 +21,10 @@ Designed in honor of the [GNU project](https://www.gnu.org).
 
 The lower-left to upper-right diagonal is an abstraction and approximation of the typical GAN model shapes.
 
+# Application Collection Version
+
+- Current version: `1.0.0`
+
 # Introduction
 
 ## Languages
