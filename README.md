@@ -11,7 +11,7 @@ AIDesign open toolchain AI research application collection.
 
 # Logo
 
-![README-Assets/Logo.png](README-Assets/Logo.png)
+![README-Assets/Logo.png](README-Assets/OpenToolchain-Logo-Res-512.png)
 
 The AIDesign-OpenToolchain logo.
 
@@ -23,7 +23,7 @@ The lower-left to upper-right diagonal is an abstraction and approximation of th
 
 # Application Collection Version
 
-- Current version: `1.0.0`
+- Latest version: `1.0.1`
 
 # Introduction
 
