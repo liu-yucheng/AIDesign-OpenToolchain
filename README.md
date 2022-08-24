@@ -23,7 +23,7 @@ The lower-left to upper-right diagonal is an abstraction and approximation of th
 
 # Application Collection Version
 
-- Latest version: `1.0.3`
+- Latest version: `1.0.4`
 
 # Introduction
 
